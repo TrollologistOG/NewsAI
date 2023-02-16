@@ -1,3 +1,5 @@
+README!
+
 # NewsAI
 
 NewsAI is a Discord bot that can provide summaries of news articles based on user requests.
@@ -40,3 +42,7 @@ Once the bot is running, you can interact with it on Discord using the `$news` c
 
 $news 5 technology
 The bot will retrieve the top 5 headlines related to the topic and provide a summary of each article. 
+
+
+
+
